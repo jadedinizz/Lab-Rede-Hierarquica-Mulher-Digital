@@ -2,7 +2,7 @@
 
 Atividade prática de laboratório desenvolvida no **Cisco Packet Tracer** para compreender a organização de uma rede corporativa utilizando o modelo hierárquico em três camadas: **Acesso, Distribuição e Núcleo (Core)**.
 
-![Print da Tela do Laboratório](./assets/print.png)
+![Print da Tela do Laboratório](./print.png)
 
 ## Topologia:
 
